@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "e540efbe0047983d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab07982b4641f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03ae438ce3dc1538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Index C and C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "_Index C and C++"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "967a193674265fc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b8944df9929bc85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f568aadcff48b47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "98fd578581cb97b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "46a97a472e4ece7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "057df47b085d1db1",
+    "type": "split",
+    "children": [
+      {
+        "id": "eefc97598d2e9843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc62d0c8caf78f61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Index C and C++.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для _Index C and C++"
+            }
+          },
+          {
+            "id": "4de97ac19ab7662a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Index C and C++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из _Index C and C++"
+            }
+          },
+          {
+            "id": "17d461f5b7a78f22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b14609342aafc531",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "ddce4f8359eedea5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Index C and C++.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура _Index C and C++"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "03ae438ce3dc1538",
+  "lastOpenFiles": [
+    "Типы данных.md",
+    "Типы данных.html",
+    "Скрытые механизмы.md",
+    "Скрытые механизмы.html",
+    "Указатели и массивы.md",
+    "Указатели и массивы.html",
+    "Справочник функций.md",
+    "Справочник функций.html",
+    "Разное.md",
+    "Разное.html",
+    "Переменные и структуры.md",
+    "Переменные и структуры.html",
+    "Конструкции языка C.md",
+    "Конструкции языка C.html",
+    "Заголовочные файлы.md",
+    "Заголовочные файлы.html",
+    "АрхЭВМ.md",
+    "АрхЭВМ.html",
+    "Арифметические операции.md",
+    "Арифметические операции.html",
+    "_Index C and C++.md",
+    "2026-04-22.md",
+    "Без названия.canvas",
+    "Типы ошибок.md",
+    "Без названия.md",
+    "Compilation & Build/Компиляция.md",
+    "Compilation & Build/Препроцессор.md",
+    "Compilation & Build/Линковка (Компоновка).md",
+    "Добро пожаловать.md",
+    "Lecture 1.md",
+    "создайте ссылку.md"
+  ]
+}
