@@ -6,7 +6,13 @@
 - **[[C++ dynamic memory#5 способов использования new|5 способов использовать new]]**
 - **[[C++ lifetime#Деструктор - обязательно noexcept!|Деструктор - noexcept]]
 - **[[C++ move and ownership#Категории значений|xvalue/lvalue/prvalue]]
-- **[[C++ modern features#Лямбда - объект|Почему в лямбде нельзя менять захваченные значения?]]
+- **[[C++ modern features#Лямбда - объект|Почему в лямбде нельзя менять захваченные значения? (Лямбда - объект)]]
+- **[[C++ modern features#Auto в лямбдах|Шаблонные лямбды]]
+- **[[C++ modern features#`decltype` и `decltype(auto)`|Два режима работы decltype]]
+- **[[C++ templates#Что можно поставить в `template<>` кроме typename|Что можно поставить в template<> кроме typename]]
+- **[[C++ templates#Почему шаблоны часто пишут в заголовках|Почему шаблоны пишут в заголовках]]
+- **[[C++ modern features#Анонимный namespace|anonymous namespace]]
+- **[[C++ inheritance#Виртуальный деструктор|Зачем нужен виртуальный деструктор]]
 
 ### Спецификаторы/Ключевые слова
 `const`, `consexpr`, `inline`, `restrict`,  `mutable`, `static`, `extern`, `explicit`, `volatile`, `virtual`, `override`, `final`, `friend`
@@ -44,6 +50,8 @@
 
 
 ### Вопросы посложнее
+*Скорее всего*, этих вопросов не будет
 
 - Как работает `for each`, что нужно сделать, чтобы он работал для пользовательского класса
 - `std::forward`, forward refference
+- ref-qualifiers
